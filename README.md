@@ -30,5 +30,5 @@ npm start
 ```
 
 ## 教學
-[[教學] Line API](http://huli.logdown.com/posts/709641-teaching-facebook-messenger-api)
+[[教學] Line API](http://huli.logdown.com/posts/726082-line-bot-api-tutorial)
 
